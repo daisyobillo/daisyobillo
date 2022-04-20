@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @daisyobillo
-- 👀 I’m interested in applying online jobs and interested in interacting to people
+- 👋 Hi, I’m Daisy
+- 👀 Interested on history and medical/healthcare
 - 🌱 I’m currently learning how to become a successful virtual assistant
 - 💞️ I’m looking to collaborate on healthcare organizations
-- 📫 How to reach me? can contact me through email and on my mobile number
+- 📫 daisyobillo1992@gmail.com
 
 <!---
 daisyobillo/daisyobillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
